@@ -301,7 +301,7 @@ Use the verbatim man-page files as the primary source and `synthesis-report.md` 
 Use together with:
 
 - A web-research skill or Firecrawl CLI when the bundled Git docs need a newer capture.
-- A host-repo skills-manager skill when the parent repo's skill tooling itself needs structural updates.
+- A skill-management tool for the host repo when the parent repo's skill tooling itself needs structural updates.
 - The target repo's worktree workflow skill when these Git rules need to be applied to a specific prepared-worktree workflow rather than answered generically.
 
 See [Local Corpus Layout](#local-corpus-layout) for the full file index.
